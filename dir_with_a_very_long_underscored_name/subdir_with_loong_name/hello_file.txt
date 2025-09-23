@@ -1,0 +1,6 @@
+echo hello there\! > hello_file.txt
+
+
+
+echo  echo 
+ho echo hello there!
